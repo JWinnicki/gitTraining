@@ -1,2 +1,2 @@
-#gitTraining
+#GitTraining
 This is git training
